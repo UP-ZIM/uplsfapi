@@ -1,0 +1,33 @@
+######################
+#### DEPENDENCIES ####
+######################
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:fluid_styled_content/Configuration/TypoScript/constants.typoscript">
+
+##############################
+#### FLUID STYLED CONTENT ####
+##############################
+styles {
+    templates {
+        layoutRootPath = EXT:lsfapi/Resources/Private/Layouts/ContentElements/
+        partialRootPath = EXT:lsfapi/Resources/Private/Partials/ContentElements/
+        templateRootPath = EXT:lsfapi/Resources/Private/Templates/ContentElements/
+    }
+}
+
+
+## cat=up_contents/003; type=boolean; label=Include shadowbox lib and init-function
+lsfapiext.includeJs = 1
+
+content.RTE_compliant = 0
+
+##############
+### CONFIG ###
+##############
+config {
+    no_cache = 0
+    removeDefaultJS = 0
+    admPanel = 1
+    prefixLocalAnchors = all
+    headerComment = build by Anuj Sharma
+    sendCacheHeaders = 1
+}

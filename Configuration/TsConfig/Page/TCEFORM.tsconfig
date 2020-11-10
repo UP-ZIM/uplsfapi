@@ -1,0 +1,17 @@
+#
+# TCEFORM
+#
+TCEFORM {
+    pages {
+
+    }
+    tt_content{
+		colPos.types.lsfextcourse{
+			disabled = 1
+		}
+	}
+	tx_lsfcoursefilter{
+		 
+	}
+	
+}

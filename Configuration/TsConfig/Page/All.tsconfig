@@ -1,0 +1,17 @@
+
+
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:lsfapi/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+
+mod.wizards.newContentElement.wizardItems.common {
+    elements.lsfcoursedata{
+        iconIdentifier = lsfapi-ext
+        title = PULS Kursinformationen
+        description = Kursinformationen vom PULS anzeigen 
+        tt_content_defValues.CType = lsfextcourse
+    }
+    show := addToList(lsfcoursedata)
+}
+
+
+
+

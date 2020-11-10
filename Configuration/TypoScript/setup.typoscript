@@ -1,0 +1,52 @@
+
+##############
+#### PAGE ####
+##############
+page = PAGE
+page {
+
+    includeCSS {
+        lsfapiexttypo3_layout = EXT:lsfapi/Resources/Public/Css/layout.css
+    }
+    includeJSLibs {
+        
+    }
+    includeJS {
+	    
+    }
+
+    includeJSFooterlibs {
+
+    }
+
+    includeJSFooter {
+	
+    }
+}
+
+lib.contentElement {
+   templateRootPaths {
+      200 = EXT:lsfapi/Resources/Private/Templates/ContentElements
+   }
+}
+
+# --------------
+#  Search
+# --------------
+#search {
+    #fields = courseName,title
+    #splitSearchWord = 0
+#}
+
+#tt_content.stdWrap.dataWrap >
+#lib.parseFunc_RTE.nonTypoTagStdWrap.encapsLines>
+
+#tt_content.lsfextcourse.10 = >
+
+tt_content {
+    lsfextcourse < lib.contentElement
+    lsfextcourse {
+        30 < lib.stdHeader
+        templateName = Course
+    }
+}

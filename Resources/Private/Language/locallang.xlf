@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2019-09-09UTC07:17:390">
+        <header>
+            <authorName>Anuj Sharma</authorName>
+            <authorEmail>asharma@uni-potsdam.de</authorEmail>
+        </header>
+        <body>
+        <trans-unit id="backend_layout.default">
+                <source>Default</source>
+            </trans-unit>
+            <trans-unit id="backend_layout.column.normal">
+                <source>Normal</source>
+            </trans-unit>
+            <trans-unit id="course.fieldname">
+                <source>Course Name</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.crstype">
+                <source>Course Type</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.semester">
+                <source>Semester</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.reg_period">
+                <source>Register Period</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.language">
+                <source>Language</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.facility">
+                <source>Facility</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.audience">
+                <source>Audience</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.more_info">
+                <source>This is an external link</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.day">
+                <source>Day</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.time">
+                <source>Time</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.frequ">
+                <source>Frequency</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.duration">
+                <source>Duration</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.room">
+                <source>Room</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.location">
+                <source>Location</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.lecturer">
+                <source>Lecturer</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.bot_comment">
+                <source>Comment</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.bot_examination">
+                <source>Examination</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.bot_literature">
+                <source>Literature</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

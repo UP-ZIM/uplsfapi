@@ -1,0 +1,8 @@
+# cat=lsfbasic; type=string; label= Puls API Url: Enter the Puls API Url to get all coursed data.
+inputApiurl =
+
+# cat=lsfbasic; type=string; label= Puls Access Token: Enter the Puls API Access Token to authonticate api.
+inputAccesstoken =
+
+# cat=lsfbasic; type=string; label= Puls Course Url: Enter the Puls url without Course Id.
+inputCourseurl =

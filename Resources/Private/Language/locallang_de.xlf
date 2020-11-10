@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="de" datatype="plaintext" original="messages" date="2019-09-09UTC07:17:390">
+        <header>
+            <authorName>Anuj Sharma</authorName>
+            <authorEmail>asharma@uni-potsdam.de</authorEmail>
+        </header>
+        <body>
+            <trans-unit id="front.lyt.crstype">
+                <source>Kurstyp</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.semester">
+                <source>Semester</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.reg_period">
+                <source>Registrierungszeitraum</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.language">
+                <source>Sprache</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.facility">
+                <source>Einrichtung</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.audience">
+                <source>Publikum</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.more_info">
+                <source>Das ist ein Externer Link</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.day">
+                <source>Tag</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.time">
+                <source>Zeit</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.frequ">
+                <source>Rhythmus</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.duration">
+                <source>Dauer</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.room">
+                <source>Raum</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.location">
+                <source>Standort</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.lecturer">
+                <source>Lehrperson</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.bot_comment">
+                <source>Kommentar</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.bot_examination">
+                <source>Leistungsnachweis</source>
+            </trans-unit>
+            <trans-unit id="front.lyt.bot_literature">
+                <source>Literatur</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
